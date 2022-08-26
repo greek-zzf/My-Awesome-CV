@@ -15,8 +15,9 @@
 ## 预览
 
 #### 简历
+[在线预览](https://github.com/greek-zzf/my-awesome-cv/blob/master/examples/My_Awesome_CV.pdf)
 
-你可以找到对应的 [PDF](https://raw.githubusercontent.com/greek-zzf/my-awesome-cv/master/examples/My_Awesome_CV.pdf)
+[PDF下载](https://raw.githubusercontent.com/greek-zzf/my-awesome-cv/master/examples/My_Awesome_CV.pdf)
 
 | 第一页 | 第二页 |
 |:---:|:---:|

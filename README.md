@@ -20,7 +20,7 @@
 
 | 第一页 | 第二页 |
 |:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/greek-zzf/my-awesome-cv/master/examples/resume-0.png)](https://raw.githubusercontent.com/greek-zzf/my-awesome-cv/master/examples/My_Awesome_CV.pdf)  | [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)](https://raw.githubusercontent.com/greek-zzf/my-awesome-cv/master/examples/My_Awesome_CV.pdf) |
+| [![Résumé](https://raw.githubusercontent.com/greek-zzf/my-awesome-cv/master/examples/resume-0.png)](https://raw.githubusercontent.com/greek-zzf/my-awesome-cv/master/examples/My_Awesome_CV.pdf)  | [![Résumé](https://raw.githubusercontent.com/greek-zzf/my-awesome-cv/master/examples/resume-1.png)](https://raw.githubusercontent.com/greek-zzf/my-awesome-cv/master/examples/My_Awesome_CV.pdf) |
 
 
 
